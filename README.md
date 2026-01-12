@@ -1,6 +1,6 @@
 ## Hi there
 
-Name: Riku Minamiyama
+Name: Riku Minamiyama<br>
 Age: 25
 
 ## Skills
